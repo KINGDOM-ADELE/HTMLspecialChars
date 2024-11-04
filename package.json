@@ -1,0 +1,26 @@
+{
+  "name": "@kingdom-adele/htmlspecialchars",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Here's the documentation in Markdown format: encode and decode Functions",
+  "main": "index.js",
+  "keywords": [
+    "html",
+    "htmlspecialchars",
+    "encode",
+    "decode",
+    "escaping"
+  ],
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "Kingdom Adele <izzylovu@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "esm": "^3.2.25",
+    "jest": "^29.7.0",
+    "mocha": "^10.8.2"
+  }
+}
